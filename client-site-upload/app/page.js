@@ -16,6 +16,9 @@ export default function Home() {
           <Link href="/services" className="btn btn-outline">
             Our services
           </Link>
+          <Link href="https://axolo.ai" className="btn btn-outline">
+            Visit Axolo
+          </Link>
         </div>
       </section>
 
